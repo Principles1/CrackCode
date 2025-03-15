@@ -1,0 +1,16 @@
+{
+  "id": "CrackCode",
+  "version": "0.0.1",
+  "title": "CrackCode",
+  "description": {
+    "en_US": "A dangerous mod that puts the game on crack, best suited for Prepare To Hi and Arena."
+  },
+  "repository": "",
+  "tags": [],
+  "authors": "principle",
+  "icons": {
+  },
+  "prestart": "_prestart.js",
+  "dependencies": {
+  }
+}
