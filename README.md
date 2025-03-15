@@ -15,6 +15,6 @@ Auto-Skip Cutscenes - Automatically skips cutscenes, even those the game normall
 
 Skip Arena Score Counting - Skips the arena score tally and starts the next round immediately.
 
-Short Cinematics – Makes in-game events instant, such as "Once more" death save, but can cause crashes in many story sequences, do note the this provides an advantage with time in arena compared to base game.
+Short Cinematics – Makes in-game events instant, such as "Once more" death save, but can cause crashes in many story sequences, do note the this provides an advantage with time in arena compared to base game. You need to restart the game to remove the effect of this.
 
 Instant-transitions – Makes area and death transitions instant. Highly disruptive outside of the Arena.
