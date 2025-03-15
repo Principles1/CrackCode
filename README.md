@@ -4,8 +4,6 @@ Important: If a crash occurs or the game breaks, it is 99% because of Short Cine
 
 Features:
 
-Always active:
-
 Instant death, no death effects.
 
 Instant arena restart.
