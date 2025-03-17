@@ -157,7 +157,13 @@ const exemptMaps = [
     "rhombus-dng.room-final",
     "rookie-harbor.central-quest-hub-2",
     "cold-dng.b3.room7",
-    "arid.interior.quest-hub"
+    "arid.interior.quest-hub",
+    "arena.platform-labs.snowman-fight",
+    "arena.dlc.snail",
+    "arid.harbor",
+    "arid.lab.ug-01-entrance",
+    "arid.lab.ug-05-junction",
+    "arid.lab.ug-04-sidwell-meeting-room"
 ];
 
 sc.CrossCode.inject({ 
