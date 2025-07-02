@@ -1,0 +1,16 @@
+{
+  "id": "CrackCode",
+  "version": "0.0.2",
+  "title": "CrackCode",
+  "description": {
+    "en_US": "Makes death, arena, transitions and more instant, custom tailored for PtH and Arena."
+  },
+  "repository": "https://github.com/Principles1/CrackCode",
+  "tags": ["QoL","Arena"],
+  "authors": "Principle",
+  "icons": {
+  },
+  "prestart": "_prestart.js",
+  "dependencies": {
+  }
+}

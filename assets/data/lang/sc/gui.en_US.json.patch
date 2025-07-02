@@ -1,0 +1,25 @@
+{
+    "labels": {
+        "options": {
+            "headers": {
+                "Crackcode": "Crackcode Settings"
+            },
+            "Cutscene-skip": {
+                "name": "Auto-Skip Cutscenes",
+                "description": "Automatically skip cutscenes."
+            },
+            "Short-arena": {
+                "name": "Skip Arena Score Counting",
+                "description": "Skips the arena score tally and starts the next round immediately."
+            },
+            "Short-Cinematics": {
+                "name": "Short Cinematics",
+                "description": "Makes game events instant, Do not use in story sequences, requires restart to disable."
+            },
+            "Instant-transitions": {
+                "name": "Speed Up Transitions",
+                "description": "Removes area/death transisions. Can be distuptive outside of arena"
+            },
+        }
+    }
+}

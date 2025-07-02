@@ -1,0 +1,11 @@
+[
+    {
+        "type": "ENTER",
+        "index": ["commonEvents", "arena-start-round", "event", 4]
+    },
+    {
+        "type": "SET_KEY",
+        "index": "time",
+        "content": 0
+    },
+]
