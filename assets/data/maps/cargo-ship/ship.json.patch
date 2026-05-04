@@ -1,0 +1,35 @@
+[
+    {
+        "type": "ENTER",
+        "index": ["entities", 127, "settings", "event"]
+    },
+    {
+        "type": "ADD_ARRAY_ELEMENT",
+        "index": 0,
+        "content": {
+            "name": "jetpack",
+            "type": "STOP_SOUND"
+        }
+    },
+    {
+        "type": "EXIT"
+    },
+    {
+        "type": "EXIT"
+    },
+    {
+        "type": "EXIT"
+    },
+    {
+        "type": "ENTER",
+        "index": [126, "settings", "npcStates", 1, "event"]
+    },
+    {
+        "type": "ADD_ARRAY_ELEMENT",
+        "index": 0,
+        "content": {
+            "name": "jetpack",
+            "type": "STOP_SOUND"
+        }
+    },
+]

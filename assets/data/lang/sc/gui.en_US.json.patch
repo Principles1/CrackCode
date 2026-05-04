@@ -14,7 +14,7 @@
             },
             "Short-Cinematics": {
                 "name": "Short Cinematics",
-                "description": "Makes game events instant, Do not use in story sequences, requires restart to disable."
+                "description": "Makes game events instant and speeds up map sequences, also toggles map patches."
             },
             "Instant-transitions": {
                 "name": "Speed Up Transitions",

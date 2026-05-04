@@ -1,6 +1,6 @@
 {
   "id": "CrackCode",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "title": "CrackCode",
   "description": {
     "en_US": "Makes death, arena, transitions and more instant, custom tailored for PtH and Arena."
@@ -9,8 +9,10 @@
   "tags": ["QoL","arena"],
   "authors": "Principle",
   "icons": {
-  },
+		"24": "chaos.png"
+	},
   "prestart": "_prestart.js",
+  "plugin": "plugin.js",
   "dependencies": {
   }
 }

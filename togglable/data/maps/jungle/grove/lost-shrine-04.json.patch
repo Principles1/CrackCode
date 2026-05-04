@@ -1,0 +1,11 @@
+[
+    {
+        "type": "ENTER",
+        "index": ["entities", 191, "settings"]
+    },
+    {
+        "type": "SET_KEY",
+        "index": "startCondition",
+        "content": "map.init"
+    },
+]

@@ -1,0 +1,16 @@
+[
+    {
+        "type": "ENTER",
+        "index": ["entities", 134, "settings", "event"]
+    },
+    {
+        "type": "ADD_ARRAY_ELEMENT",
+        "index": 2,
+        "content": {
+            "ignoreSlowDown": false,
+            "type": "WAIT_RANDOM",
+            "minTime": 1,
+            "maxTime": 1
+        }
+    },
+]

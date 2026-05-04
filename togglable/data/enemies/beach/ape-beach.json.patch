@@ -1,0 +1,74 @@
+[
+    {
+        "type": "ENTER",
+        "index": ["proxies", "shockBombL", "action"]
+    },
+
+    {
+        "type": "REMOVE_ARRAY_ELEMENT",
+        "index": 24
+    },
+
+    {
+        "type": "ADD_ARRAY_ELEMENT",
+        "index": 24,
+        "content": {
+            "name": "Leftareacheck",
+            "type": "LABEL"
+        }
+    },
+
+    {
+        "type": "ADD_ARRAY_ELEMENT",
+        "index": 25,
+        "content": {
+            "type": "WAIT",
+            "time": 0.2
+        }
+    },
+
+    {
+        "type": "ADD_ARRAY_ELEMENT",
+        "index": 26,
+        "content": {
+            "conditions": [
+                {
+                    "type": "HAS_TARGET",
+                    "negated": false
+                },
+                {
+                    "type": "TARGET_DISTANCE",
+                    "min": 0,
+                    "max": 320,
+                    "negated": false
+                }
+            ],
+            "withElse": true,
+            "type": "COMBAT_IF",
+            "elseStep": [
+                {
+                    "name": "EndWait",
+                    "type": "GOTO_LABEL"
+                }
+            ]
+        }
+    },
+
+    {
+        "type": "ADD_ARRAY_ELEMENT",
+        "index": 27,
+        "content": {
+            "name": "Leftareacheck",
+            "type": "GOTO_LABEL"
+        }
+    },
+
+    {
+        "type": "ADD_ARRAY_ELEMENT",
+        "index": 28,
+        "content": {
+            "name": "EndWait",
+            "type": "LABEL"
+        }
+    }
+]
