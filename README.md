@@ -46,7 +46,7 @@ Auto-Skip Cutscenes - Automatically skips cutscenes, even those the game normall
 Skip Arena Score Counting - Upon defeating the last enemy skip the arena score tally sequence and starts the next round immediately.
 
 Short Cinematics – Makes in-game events instant, such as "Once more" death save, or the wait until a map spawns an additional enemy, comes with a blacklist of the few problematic maps where it isn't active.
-This setting toggles most patches you see below.
+This setting toggles most patches you see below, but they need a restart to be either enabled or disabled, since they includes a few bug fixes for short cinematics, I recommend restarting the game when toggling this setting on.
 
 Instant-transitions – Makes area and death transitions instant, instead of a fade effect, load the map instantly.
 
