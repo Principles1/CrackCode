@@ -148,7 +148,9 @@ sc.Arena.inject({
                                 ig.bgm.pause('IMMEDIATELY')
                             : ig.bgm.pause('IMMEDIATELY');
                         c.roundEndPre = true;
-                        sc.arena.endRound();
+                        c.currentRound == c.rounds.length - 1
+                            ? sc.commonEvents.startCallEvent('arena-end-round')
+                            : sc.arena.endRound();
                     } else sc.commonEvents.startCallEvent('arena-next-wave');
                 }
             }
